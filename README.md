@@ -1,4 +1,4 @@
-# cypress-test
+# Cypress-test
 The features that have been tested:
 
 - “How can we help you” part.
@@ -7,7 +7,7 @@ The features that have been tested:
 - “Projects for example”.
 - “Some of our customers” part.
 - Thanks page (after send personal details for contacting).
-    - Links (links for WhatsApp, linkedIn, HEROLO official site, Facebook).
+- Links (links for WhatsApp, linkedIn, HEROLO official site, Facebook).
 
 *The test does not cover the system from end to end.
 A number of features have been selected, and their suites can also be Expanded to include
