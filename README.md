@@ -13,17 +13,15 @@ The features that have been tested:
 A number of features have been selected, and their suites can also be Expanded to include
 more cases and tests.
 
-*I write one of the tests(“How can we help you” part)according to Page Object Model (Design
+*I wrote one of the tests(“How can we help you” part)according to Page Object Model (Design
 Pattern) the test divided for 2 parts.
 
-In order to reflect my knowledge in the division of the test and the use of The design pattern.
-
-* The rest of the tests reflect the use of "App Actions" instead of "Page Objects", as it is
+*The rest of the tests reflect the use of "App Actions" instead of "Page Objects", as it is
 sometimes anti-pattern in the use of "Cypress".
 
-* The tests were written in cypress (I checked with the HR, and got permission to use it).
+*The tests were written in cypress (I checked with the HR, and got permission to use it).
 
-*Small bug I found: The name field can be sent with an empty string entry (keyboard space).
+*Small bug I found: The name field can be sent with an empty string entry (keyboard space)the existing validation is not enough.
 
 **“How can we help you?” part**
 
