@@ -19,7 +19,7 @@ pattern) the test is divided for 2 parts.
 *The rest of the tests reflect the use of "app actions" instead of "page objects", as it is
 sometimes anti-pattern in the use of "Cypress.io".
 
-*The tests were written in "Cypress.io" (I checked with the HR, and got permission to use it).
+*The tests were written in "Cypress.io".
 
 *A bug I found: The name field can be sent with an empty string entry (keyboard space), the existing validation is not enough.
 
