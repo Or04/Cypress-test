@@ -24,6 +24,7 @@ sometimes anti-pattern in the use of "Cypress.io".
 *A bug I found: The name field can be sent with an empty string entry (keyboard space), the existing validation is not enough.
 
 **How can we help you part**
+
 a. Verifying the bar is not displayed when scrolling to the bottom of the page.
 
 b. Trying to submit a request with non-valid values and verify errors.
@@ -42,6 +43,7 @@ Error message appears under the field as long as the value is not valid.
 Send button is clickable anytime but the send will happen only if all the values are valid.
 
 **Page Up button**
+
 Verify Back Up button functionality:
 
 a. Displayed after scrolling down the page.
@@ -60,6 +62,7 @@ b.Clicking on some point move the user to the appropriate page.
 c.Basic WebElements verifications including links, texts, and other elements.
 
 **Our customers**
+
 Move to specific page:
 
 a.There are direct links under the pictures of the projects as points.
@@ -69,6 +72,7 @@ b.Clicking on some point move the user to the appropriate page.
 c.Basic WebElements verifications including links, texts, and other elements.
 
 **Links (links for WhatsApp, LinkedIn, HEROLO official site, Facebook)**
+
 Clicking on the links:
 
 Clicking on the links will move the user to the official site/page at the appropriate platform.
@@ -81,6 +85,7 @@ site and Facebook.
 Basic WebElements verifications including links, texts, and other elements.
 
 **Thank you page**
+
 When is the user being directed to thank you page:
 
 The user is directed to thank you page when submeting personal details on how can we help you section.
