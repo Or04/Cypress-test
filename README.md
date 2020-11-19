@@ -53,6 +53,7 @@ b. When clicking the button user is being scroll up to the head of the page.
 c. After scroll, the Page Up button will disappear.
 
 **Projects for example**
+
 Move to specific page:
 
 a.There are direct links under the pictures of the projects as points.
