@@ -7,4 +7,4 @@ The features that have been tested:
 - Projects for example.
 - Some of our customers part.
 - Thanks page (after sending personal details for contacting).
-- Links (links for WhatsApp, linkedIn, HEROLO official site, Facebook).
+- Links (links for WhatsApp, linkedIn, official site, Facebook).
